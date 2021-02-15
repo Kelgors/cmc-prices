@@ -1,0 +1,15 @@
+{
+  "name": "cmc-prices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yargs": "^16.2.0"
+  },
+  "bin": {
+    "cryptoprices": "./bin/cryptoprices"
+  }
+}

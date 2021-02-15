@@ -1,0 +1,170 @@
+[
+  {
+    "symbol": "AAVE",
+    "price": 485.63369811330824,
+    "circulatingSupply": 12385735,
+    "maxSupply": 16000000
+  },
+  {
+    "symbol": "BNB",
+    "price": 133.80160568202547,
+    "circulatingSupply": 154532785,
+    "maxSupply": 170532785
+  },
+  {
+    "symbol": "BTC",
+    "price": 49177.29236390222,
+    "circulatingSupply": 18628500,
+    "maxSupply": 21000000
+  },
+  {
+    "symbol": "BUSD",
+    "price": 1,
+    "circulatingSupply": 1763036425,
+    "maxSupply": null
+  },
+  {
+    "symbol": "CHSB",
+    "price": 0.85938238935342,
+    "circulatingSupply": 939100207,
+    "maxSupply": null
+  },
+  {
+    "symbol": "CRO",
+    "price": 0.09435926185095,
+    "circulatingSupply": 23195433788,
+    "maxSupply": 100000000000
+  },
+  {
+    "symbol": "DAI",
+    "price": 1.00158557078358,
+    "circulatingSupply": 2071531978,
+    "maxSupply": null
+  },
+  {
+    "symbol": "DNT",
+    "price": 0.31971511372564,
+    "circulatingSupply": 600000000,
+    "maxSupply": null
+  },
+  {
+    "symbol": "DOT",
+    "price": 28.36439896063628,
+    "circulatingSupply": 908001379,
+    "maxSupply": null
+  },
+  {
+    "symbol": "EGLD",
+    "price": 162.80892316288416,
+    "circulatingSupply": 16945480,
+    "maxSupply": 31415926
+  },
+  {
+    "symbol": "ENJ",
+    "price": 0.58166592559211,
+    "circulatingSupply": 834185856,
+    "maxSupply": 1000000000
+  },
+  {
+    "symbol": "ETH",
+    "price": 1842.9613183202594,
+    "circulatingSupply": 114666004,
+    "maxSupply": null
+  },
+  {
+    "symbol": "LINK",
+    "price": 34.46536185629217,
+    "circulatingSupply": 407009556,
+    "maxSupply": 1000000000
+  },
+  {
+    "symbol": "LIT",
+    "price": 11.11530703429275,
+    "circulatingSupply": 18000000,
+    "maxSupply": 100000000
+  },
+  {
+    "symbol": "LTC",
+    "price": 223.19496397032452,
+    "circulatingSupply": 66484041,
+    "maxSupply": 84000000
+  },
+  {
+    "symbol": "MAPS",
+    "price": 0.74657013163362,
+    "circulatingSupply": 62463518,
+    "maxSupply": 10000000000
+  },
+  {
+    "symbol": "MATIC",
+    "price": 0.10990046765739,
+    "circulatingSupply": 4966397110,
+    "maxSupply": 10000000000
+  },
+  {
+    "symbol": "REEF",
+    "price": 0.044971960483,
+    "circulatingSupply": 3026721973,
+    "maxSupply": null
+  },
+  {
+    "symbol": "REN",
+    "price": 0.96110227266232,
+    "circulatingSupply": 995363051,
+    "maxSupply": 1000000000
+  },
+  {
+    "symbol": "SNX",
+    "price": 25.93059080184962,
+    "circulatingSupply": 114841533,
+    "maxSupply": 212424133
+  },
+  {
+    "symbol": "SOL",
+    "price": 8.70057289427069,
+    "circulatingSupply": 261900137,
+    "maxSupply": 488630611
+  },
+  {
+    "symbol": "SRM",
+    "price": 3.93650516482372,
+    "circulatingSupply": 50000000,
+    "maxSupply": 10000000000
+  },
+  {
+    "symbol": "THETA",
+    "price": 3.22649503645907,
+    "circulatingSupply": 1000000000,
+    "maxSupply": 1000000000
+  },
+  {
+    "symbol": "UOS",
+    "price": 0.21159434594962,
+    "circulatingSupply": 282577698,
+    "maxSupply": null
+  },
+  {
+    "symbol": "USDC",
+    "price": 0.99996326996237,
+    "circulatingSupply": 7214168879,
+    "maxSupply": null
+  },
+  {
+    "symbol": "USDT",
+    "price": 1.00078059779395,
+    "circulatingSupply": 32007698001,
+    "maxSupply": null
+  },
+  {
+    "symbol": "XLM",
+    "price": 0.5459738432092,
+    "circulatingSupply": 22397093875,
+    "maxSupply": 50001806812
+  },
+  {
+    "symbol": "XTZ",
+    "price": 5.15590325191594,
+    "circulatingSupply": 759942091,
+    "maxSupply": null
+  }
+]
